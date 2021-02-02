@@ -43,8 +43,9 @@ console:
 <footer>
 Resoluções feitas por: Rodrigo 
 
-Sinta-se à vontade para contribuir com outros tipos de resoluções e ou soluções.  
+Sinta-se à vontade para contribuir com outros tipos de resoluções, e ou soluções.  
 
 Follow-up:  
 ![GitHub Logo](https://lh4.googleusercontent.com/yCe_mEUSYVxSX9OvywIcqNupqxnwKvIAWmaIzGLsmT7C3VOcVpwUafQGSa5CGbi1gVGQ_8eTQk-NCuklk0h3fX0h6eDmkO7vf4Qw0oH7aXbJSRcuvbOaCF14-PzyuZYF64sZk5NAj4Pm-Rh7DA)
+</footer>
 
