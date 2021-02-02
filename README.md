@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/rousuy/basic_pythonbrasil_exercises.svg?branch=main)](https://travis-ci.com/rousuy/basic_pythonbrasil_exercises)
+
 # Basic Python exercises
 ### Lista de exercícios  básicos em linguagem Python para aprendizagem e fixação.
 ### Tópicos abordados:
